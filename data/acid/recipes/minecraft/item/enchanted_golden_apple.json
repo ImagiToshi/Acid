@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "xxx",
+        "xax",
+        "xxx"
+    ],
+    "key":{
+        "x": {
+            "item": "minecraft:gold_block"
+        },
+        "a": {
+            "item": "minecraft:apple"
+        }
+    },
+    "result": {
+        "item": "minecraft:enchanted_golden_apple"
+    }
+}
